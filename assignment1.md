@@ -1,13 +1,13 @@
 # Assignment 1 - Digital Technologies in Intercultural Studies
 
-<div class="container"><div class="fancy"><h2>## Introduction </h2></div></div>
+<div class="container"><div class="fancy"><h2>Introduction </h2></div></div>
 
 Technological innovation has been a steady source of change since its invention. While some scientific and professional fields have more obvious areas that are affected or benefit from digital technologies, they can be relevant to any field one chooses to examine. Intercultural Studies is a field that looks at the interaction between cultures, as well as culture as a resource or a point of potential miscommunication and stereotypes. First and foremost are people the subject of studies, but that does not mean that digital technologies do not have an enormous influence. Like any social science, Intercultural Studies benefits from technological advancement, because it makes computing large sets of data easier and can be an asset in field work for example. There are certain aspects, however, that cannot be replaced by digital technologies, like participant observation or having conversations with the subjects of your study. 
 
 No field of study should close themselves off to technological advancement, but the implementation of new technologies should be viewed critically and be continuously assessed for their impact on a field and on processes. I will give a brief overview of the current digital technologies that are commonly used in my field. Then I will look at the benefits and pitfalls of Artificial Intelligence being introduced further than it already has been into Intercultural Studies. In the end, I will consider how important technology is to my field, and which technologies one should be able to operate within Intercultural Studies.
 
 	
-<div class="container"><div class="fancy"><h2>## Current digital technologies used in Intercultural Studies</h2></div></div>
+<div class="container"><div class="fancy"><h2>Current digital technologies used in Intercultural Studies</h2></div></div>
 
 Intercultural Studies is part of the field of social sciences, which historically has used digital technologies as a means of communication and data storage, but not necessarily as a primary aspect of the field. Naturally, the field cannot be separated and thought about without technology anymore, as they have become a part of our everyday lives and always must be considered. 
 Digital technologies that are currently being used in the field of Intercultural Studies are services that help process quantitative data for large studies. Furthermore, programs that facilitate communication over long distances make it possible for scientists to reach out and request information from people all over the world, without necessarily having to travel there (although it is highly recommended to travel any place you intend to write about, unless it is your specific intent to study fx. a company culture purely through internet communication). Digital communication tools are supposed to help ease intercultural communication and foster intercultural understanding. 
@@ -15,7 +15,7 @@ The internet itself provides rich grounds for all kinds of studies within the fi
 Interesting study areas could be looking at the way that social media changes communication between Gen Zers themselves, between people from different generations, and the spread of national phenomena to an international interest (fx. movies from Hollywood, memes, KPOP, …). 
 Another important aspect is emerging technologies, where we cannot comprehend yet, how much of an impact they will have not only on daily life, but also on fields of studies. A range of tools facilitate intercultural communication and are therefore interesting to study. For example, rising technologies like virtual reality devices or artificial intelligence could have broad and long-lasting impacts on this field. This impact needs to be closely studied, as it is such a volatile field. 
 
-## Technologies that could potentially disrupt the status quo
+<div class="container"><div class="fancy"><h2>Technologies that could potentially disrupt the status quo</h2></div></div>
 
 One technology that has recently been more widely introduced is artificial intelligence. Although in some ways it has been around in less noticeable ways before, like automated search engine suggestions or systems trained to recognize patterns and learn from data, like a chess computer. Artificial intelligence has been a topic long before the launch of ChatGPT in 2022 (Walsh, 2025). 
 
@@ -28,7 +28,7 @@ Of course, AI will not simply cease to exist now, so I do think it is relevant t
 
 AI does have its place, for example by being trained in reading medical data and potentially aiding doctors in diagnoses (Al-antari 2024). In Intercultural Studies it could potentially be used to overcome language barriers, to foster intercultural understanding, and to collaborate internationally. 
 
-## Are there vital technologies in Intercultural Studies?
+<div class="container"><div class="fancy"><h2>Are there vital technologies in Intercultural Studies?</h2></div></div>
 
 While I do not think that technologies are inherently vital to the field of Intercultural Studies, I do not think that our field is immune to technological change. One could do an intercultural study with a notebook and a pen, for example when doing field research and participant observation. However, since the core subjects of this field are humans, culture, and the interaction/intersection of differing cultures, one always must consider digital technologies and their effects on the aforementioned. 
 
@@ -36,7 +36,7 @@ Naturally, students can go to the library to borrow books on their subjects, but
 
 Future students will have to be trained properly in using AI as a tool, because it will possibly change every field of study. It is not useful to bar oneself against it, but instead learn how to use it, but also how to spot it in other people’s work. A positive aspect can be to teach students a critical awareness of sources and misinformation campaigns online. 
 
-## Conclusion
+<div class="container"><div class="fancy"><h2>Conclusion</h2></div></div>
 
 In summary, no field will remain untouched by artificial intelligence. We are currently still in the starting phase of finding out what implementing large language models means for many different areas of studies, including interculturality. I would argue the most relevant aspect is to study the impact of LLMs on communication, on research, on students, on information processing, and on the rise or fall of so-called fake news. 
 
