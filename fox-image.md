@@ -13,8 +13,6 @@
 
   <img id="fox-image" src="" alt="">
 
-
-
   <main>
     <div id="content">
     </div>
@@ -22,12 +20,10 @@
 
 </body>
 <script>
-  
-    async function displayImage(){
+  async function displayImage(){
     const response = await fetch('https://randomfox.ca/floof/');
     const data = await response.json();
     document.getElementById("fox-image").src = data.image;
   }
-  
 </script>
 </html>
