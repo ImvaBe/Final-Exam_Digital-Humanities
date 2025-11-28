@@ -1,5 +1,8 @@
-#ICS {
+
+
+.container {
     object-position: center;
+    align-content: center;
 }
 
       .button-container {
