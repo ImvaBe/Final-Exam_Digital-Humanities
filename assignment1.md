@@ -1,0 +1,54 @@
+# Assignment 1 - Digital Technologies in Intercultural Studies
+
+## Introduction 
+
+Technological innovation has been a steady source of change since its invention. While some scientific and professional fields have more obvious areas that are affected or benefit from digital technologies, they can be relevant to any field one chooses to examine. Intercultural Studies is a field that looks at the interaction between cultures, as well as culture as a resource or a point of potential miscommunication and stereotypes. First and foremost are people the subject of studies, but that does not mean that digital technologies do not have an enormous influence. Like any social science, Intercultural Studies benefits from technological advancement, because it makes computing large sets of data easier and can be an asset in field work for example. There are certain aspects, however, that cannot be replaced by digital technologies, like participant observation or having conversations with the subjects of your study. 
+
+No field of study should close themselves off to technological advancement, but the implementation of new technologies should be viewed critically and be continuously assessed for their impact on a field and on processes. I will give a brief overview of the current digital technologies that are commonly used in my field. Then I will look at the benefits and pitfalls of Artificial Intelligence being introduced further than it already has been into Intercultural Studies. In the end, I will consider how important technology is to my field, and which technologies one should be able to operate within Intercultural Studies.
+
+## Current digital technologies used in Intercultural Studies	
+
+Intercultural Studies is part of the field of social sciences, which historically has used digital technologies as a means of communication and data storage, but not necessarily as a primary aspect of the field. Naturally, the field cannot be separated and thought about without technology anymore, as they have become a part of our everyday lives and always must be considered. 
+Digital technologies that are currently being used in the field of Intercultural Studies are services that help process quantitative data for large studies. Furthermore, programs that facilitate communication over long distances make it possible for scientists to reach out and request information from people all over the world, without necessarily having to travel there (although it is highly recommended to travel any place you intend to write about, unless it is your specific intent to study fx. a company culture purely through internet communication). Digital communication tools are supposed to help ease intercultural communication and foster intercultural understanding. 
+The internet itself provides rich grounds for all kinds of studies within the field of interculturality. One can easily use social media and virtual spaces as subjects to be studied. Although not everyone has access to the internet or a smartphone (Digital Around the World — DataReportal – Global Digital Insights, n.d.), they can be tools that foster intercultural understanding, as information about other cultures is more easily accessible. However, this also contains the downside of misinformation being spread more easily, and because of algorithms, there is a very real possibility of landing in an echo chamber on social media. These are phenomena that are also interesting for intercultural scientists. 
+Interesting study areas could be looking at the way that social media changes communication between Gen Zers themselves, between people from different generations, and the spread of national phenomena to an international interest (fx. movies from Hollywood, memes, KPOP, …). 
+Another important aspect is emerging technologies, where we cannot comprehend yet, how much of an impact they will have not only on daily life, but also on fields of studies. A range of tools facilitate intercultural communication and are therefore interesting to study. For example, rising technologies like virtual reality devices or artificial intelligence could have broad and long-lasting impacts on this field. This impact needs to be closely studied, as it is such a volatile field. 
+
+## Technologies that could potentially disrupt the status quo
+
+One technology that has recently been more widely introduced is artificial intelligence. Although in some ways it has been around in less noticeable ways before, like automated search engine suggestions or systems trained to recognize patterns and learn from data, like a chess computer. Artificial intelligence has been a topic long before the launch of ChatGPT in 2022 (Walsh, 2025). 
+
+The difference now is the implementation of the large language models (LLMs), that are trained to give answers that are put together based on large amounts of data. Though relatively new, using AI is already allowed to be used by students at Aarhus University to aid in their exams since last year (2024). They are required to disclose in which way they have applied AI in their exams and hand-ins, and to mark their own work clearly. 
+
+In my opinion, there are already disruptions in the way things used to be done in intercultural studies. It is not singular in this field, therefore it has a wider impact. Some negative impacts are the decline of soft skills and the reliance on information without checking the sources. There is a big difference between reading an academic text and forming your own questions about it or asking a LLM to summarize it for you. While it can be difficult at the beginning of an academic career to get used to the way academic texts are written, that is part of one’s education, and students get used to it, as well as picking up on how an argument is built in a paper. Furthermore, reading papers in social sciences is also supposed to develop further critical thinking in students (Mehta et al. 2015). When you do not read a paper yourself, you are also taking away the option to form questions that might arise while reading. 
+While AI already is and has been a part of many websites and we often use it unconsciously, I do think the usage of LLMs like ChatGPT has a mostly negative impact, specifically on students, in the field of intercultural studies. If one has already been trained and completed one’s education, then AI can be a tool that can be used in research. But if one is only starting out and is using AI as a tool in exams, I do think that certain soft skills are not learned as easily, which can have an effect later. 
+
+Of course, AI will not simply cease to exist now, so I do think it is relevant to actively think about how it can be utilized best. It will not be helpful to demonize it, but I do think it is important to be clear about the potential negative impacts, like reduction of soft skills, possible wrong information, the creation of a vicious cycle if a LLM starts training itself on its own data, thereby multiplying incorrect output, or considering the environmental impact it has. 
+
+AI does have its place, for example by being trained in reading medical data and potentially aiding doctors in diagnoses (Al-antari 2024). In Intercultural Studies it could potentially be used to overcome language barriers, to foster intercultural understanding, and to collaborate internationally. 
+
+## Are there vital technologies in Intercultural Studies?
+
+While I do not think that technologies are inherently vital to the field of Intercultural Studies, I do not think that our field is immune to technological change. One could do an intercultural study with a notebook and a pen, for example when doing field research and participant observation. However, since the core subjects of this field are humans, culture, and the interaction/intersection of differing cultures, one always must consider digital technologies and their effects on the aforementioned. 
+
+Naturally, students can go to the library to borrow books on their subjects, but finding relevant research and reading has been made much easier by using computers. When processing large amounts of data, it is also more convenient to use technology to organize that. If artificial intelligence is used as a tool and not as a replacement it can be useful. 
+
+Future students will have to be trained properly in using AI as a tool, because it will possibly change every field of study. It is not useful to bar oneself against it, but instead learn how to use it, but also how to spot it in other people’s work. A positive aspect can be to teach students a critical awareness of sources and misinformation campaigns online. 
+
+## Conclusion
+
+In summary, no field will remain untouched by artificial intelligence. We are currently still in the starting phase of finding out what implementing large language models means for many different areas of studies, including interculturality. I would argue the most relevant aspect is to study the impact of LLMs on communication, on research, on students, on information processing, and on the rise or fall of so-called fake news. 
+
+To study the effect of something, one must be well versed in it. This requires intercultural scientists to be aware of the inner workings, pitfalls, and upsides of models like ChatGPT. I think AI will not go away; therefore, we must find a way to deal with it responsibly and furthermore develop studies and teachings about how to do that. It is important to design studies about, for example, the effect of AI on soft skills of students, but also on their confidence in their own skills. 
+
+Overall, I do think the most interesting aspect that AI can contribute as a digital technology to the field of Intercultural Studies is the opportunities for studies that it provides. This could include looking at AI’s impact on teaching and learning in schools and universities, or the change in communication between international organizations. The farther-reaching impact remains to be seen.	
+
+## Sources
+
+Al-antari, M. A. (2024). Artificial Intelligence Advances for Medical Computer-Aided Diagnosis. MDPI - Multidisciplinary Digital Publishing Institute. https://doi.org/10.3390/books978-3-7258-1643-9 
+
+Digital Around the World — DataReportal – Global Digital Insights. (n.d.). DataReportal – Global Digital Insights. (Accessed: 23.10.2025) https://datareportal.com/global-digital-overview
+
+Mehta, S. R., & Al-Mahrooqi, R. (2015). Can Thinking be Taught? Linking Critical Thinking and Writing in an EFL Context. RELC Journal, 46(1), 23–36. https://doi.org/10.1177/0033688214555356 
+
+Walsh, S. (2025, October 20). Timeline Of ChatGPT Updates & Key Events. Search Engine Journal. https://www.searchenginejournal.com/history-of-chatgpt-timeline/488370/ 
