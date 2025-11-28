@@ -8,10 +8,9 @@
     <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
 </head>
 <body>
+  This is where you will see a fox image!
 <header>
-   
     <img id="fox-image" src="" alt="">
-    
 </header>
 
 <main>
@@ -24,7 +23,6 @@ async function displayImage(){
     const data = await response.json();
     document.getElementById("fox-image").src = data.image;
   }
-   
   displayImage();
   </script>
 
