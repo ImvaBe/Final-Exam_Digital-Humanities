@@ -1,12 +1,13 @@
 # Assignment 1 - Digital Technologies in Intercultural Studies
 
-## Introduction 
+<div class="container"><div class="fancy"><h2>## Introduction </h2></div></div>
 
 Technological innovation has been a steady source of change since its invention. While some scientific and professional fields have more obvious areas that are affected or benefit from digital technologies, they can be relevant to any field one chooses to examine. Intercultural Studies is a field that looks at the interaction between cultures, as well as culture as a resource or a point of potential miscommunication and stereotypes. First and foremost are people the subject of studies, but that does not mean that digital technologies do not have an enormous influence. Like any social science, Intercultural Studies benefits from technological advancement, because it makes computing large sets of data easier and can be an asset in field work for example. There are certain aspects, however, that cannot be replaced by digital technologies, like participant observation or having conversations with the subjects of your study. 
 
 No field of study should close themselves off to technological advancement, but the implementation of new technologies should be viewed critically and be continuously assessed for their impact on a field and on processes. I will give a brief overview of the current digital technologies that are commonly used in my field. Then I will look at the benefits and pitfalls of Artificial Intelligence being introduced further than it already has been into Intercultural Studies. In the end, I will consider how important technology is to my field, and which technologies one should be able to operate within Intercultural Studies.
 
-## Current digital technologies used in Intercultural Studies	
+	
+<div class="container"><div class="fancy"><h2>## Current digital technologies used in Intercultural Studies</h2></div></div>
 
 Intercultural Studies is part of the field of social sciences, which historically has used digital technologies as a means of communication and data storage, but not necessarily as a primary aspect of the field. Naturally, the field cannot be separated and thought about without technology anymore, as they have become a part of our everyday lives and always must be considered. 
 Digital technologies that are currently being used in the field of Intercultural Studies are services that help process quantitative data for large studies. Furthermore, programs that facilitate communication over long distances make it possible for scientists to reach out and request information from people all over the world, without necessarily having to travel there (although it is highly recommended to travel any place you intend to write about, unless it is your specific intent to study fx. a company culture purely through internet communication). Digital communication tools are supposed to help ease intercultural communication and foster intercultural understanding. 
