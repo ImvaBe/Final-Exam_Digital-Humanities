@@ -1,4 +1,5 @@
 <img id="fox-image" src="" alt="">
+<div id="content"></div>
 
 <script>
 async function displayImage(){
