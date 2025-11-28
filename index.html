@@ -32,7 +32,7 @@
     GitHub and API
   </button>
 
-  <button onclick="loadasyncfuntiondisplayImage('fox-image', 'content'); makeBackgroundWhite();">
+  <button onclick="loadHTNK('fox-image.html', 'content'); makeBackgroundWhite();">
     Do you want to see a fox?
   </button>
 </div>
@@ -55,12 +55,7 @@
   }
   getAdvice();
 
-  async function displayImage(){
-    const response = await fetch('https://randomfox.ca/floof/');
-    const data = await response.json();
-    document.getElementById("fox-image").src = data.image;
-  }
-  displayImage();
+  
 </script>
 
 <footer>
