@@ -12,13 +12,16 @@
 <header>
     <h1>Welcome to my website exploring Intercultural Studies</h1>
     <p>This is my first webpage!</p>
+
+    <h2 id="daily-quote"></h2>
+    
 </header>
 
 <main>
     <section>
         <img id="ICS" src="DigitalHumanities.jpg" alt="DigitalHumanities">
     </section>
-    
+
 <div class="button-container">
   <button onclick="loadMarkdown('assignment1.md', 'content'); makeBackgroundWhite();">
     AI in Intercultural Studies
@@ -30,7 +33,7 @@
 </div>
 
   <div id="content"></div>
-
+<img id="fox-image" src="" alt="">
 </main>
 
 <script>
@@ -39,6 +42,20 @@
     const text = await response.text();
     document.getElementById(componentId).innerHTML = marked.parse(text);
     }
+
+    async function getAdvice(){
+    const response = await fetch('https://api.adviceslip.com/advice');
+    const data = await response.json();
+    document.getElementById("daily-quote").innerHTML = data.slip.advice;
+  }
+  getAdvice();
+
+  async function displayImage(){
+    const response = await fetch('https://randomfox.ca/floof/');
+    const data = await response.json();
+    document.getElementById("fox-image").src = data.image;
+  }
+  displayImage();
 </script>
 
 <footer>
