@@ -37,12 +37,11 @@ div.b {
 }
 
 h2 {
-  color: darkblue (14, 115, 209);
+  color: rgb(0, 0, 139);
   text-align: center;
 }
 
 h3 {
-  color: black;
   text-align: center;
 }
 
