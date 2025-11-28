@@ -1,4 +1,5 @@
-# Assignment 1 - Digital Technologies in Intercultural Studies
+# Assignment 1
+# Digital Technologies in Intercultural Studies
 
 <div class="container"><div class="fancy"><h2>Introduction </h2></div></div>
 
@@ -44,7 +45,7 @@ To study the effect of something, one must be well versed in it. This requires i
 
 Overall, I do think the most interesting aspect that AI can contribute as a digital technology to the field of Intercultural Studies is the opportunities for studies that it provides. This could include looking at AI’s impact on teaching and learning in schools and universities, or the change in communication between international organizations. The farther-reaching impact remains to be seen.	
 
-## Sources
+<div class="container"><div class="fancy"><h2>Sources</h2></div></div>
 
 Al-antari, M. A. (2024). Artificial Intelligence Advances for Medical Computer-Aided Diagnosis. MDPI - Multidisciplinary Digital Publishing Institute. https://doi.org/10.3390/books978-3-7258-1643-9 
 
