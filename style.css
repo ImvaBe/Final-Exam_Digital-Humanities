@@ -1,8 +1,7 @@
 
-
 .image-container {
-    object-position: center;
     align-content: center;
+    justify-content: center;
 }
 
       .button-container {
@@ -40,6 +39,11 @@ div.b {
 
 h2 {
   color: darkblue;
+  text-align: center;
+}
+
+h2 {
+  color: rgb(100, 212, 149);
   text-align: center;
 }
 
