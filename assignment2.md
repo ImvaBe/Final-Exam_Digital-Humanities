@@ -1,5 +1,3 @@
-# Website Design
-
 <div class="container"><div class="fancy"><h2>Idea</h2></div></div> 
 
 

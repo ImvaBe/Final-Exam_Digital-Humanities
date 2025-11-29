@@ -1,5 +1,3 @@
-# Assignment 1
-
 <div class="container"><div class="fancy"><h2>Introduction </h2></div></div>
 
 Technological innovation has been a steady source of change since its invention. While some scientific and professional fields have more obvious areas that are affected or benefit from digital technologies, they can be relevant to any field one chooses to examine. Intercultural Studies is a field that looks at the interaction between cultures, as well as culture as a resource or a point of potential miscommunication and stereotypes. First and foremost are people the subject of studies, but that does not mean that digital technologies do not have an enormous influence. Like any social science, Intercultural Studies benefits from technological advancement, because it makes computing large sets of data easier and can be an asset in field work for example. There are certain aspects, however, that cannot be replaced by digital technologies, like participant observation or having conversations with the subjects of your study. 
