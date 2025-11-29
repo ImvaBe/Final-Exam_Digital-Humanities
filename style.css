@@ -96,6 +96,15 @@ p {
   justify-content: center;
 }
 
-div.image-container{
+#content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 30px;
   text-align: center;
+}
+
+#content img {
+  max-width: 80%;
+  height: auto;
 }
