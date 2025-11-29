@@ -95,3 +95,7 @@ p {
   align-items: center;
   justify-content: center;
 }
+
+div.image-container{
+  text-align: center;
+}
