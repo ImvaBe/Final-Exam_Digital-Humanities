@@ -13,7 +13,7 @@ While the final exam entails deploying a website to facilitate interdisciplinary
 
 While coding and creating the website, some details were easier to figure out than others. One of the most challenging problems was changing the code and something did happen on the website but not in the way that I expected it or had planned it. The most poignant example was the attempt to display an API after clicking a button. While we had done this in class before, I struggled to replicate the code to deploy an API when clicking a specific button. Once I managed to solve this problem, I had to address the follow up issue of having additional content deployed under a button, that was not supposed to be there anymore. 
 
-<div align="center"> <img src="coding2.jpg" alt="Stressed Coder" /></div>
+<div align="center"> <img src="coding.jpg" alt="Stressed Coder" /></div>
 
 It was fairly easy to imagine what I expected from my website, but to actually succeed in aligning my vision with the reality was much harder. However, perseverance and looking at aspects from a new angle aided me in the solution process, and each time an issue arose, the solution took a bit less time to find. 
 
