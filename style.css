@@ -101,7 +101,7 @@ p{
   justify-content: center;
 }
 
-#content {
+#content2 {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -109,7 +109,7 @@ p{
   text-align: center;
 }
 
-#content img {
+#content2 img {
   max-width: 80%;
   height: auto;
 }
