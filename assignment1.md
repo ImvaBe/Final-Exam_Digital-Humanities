@@ -1,5 +1,4 @@
 # Assignment 1
-# Digital Technologies in Intercultural Studies
 
 <div class="container"><div class="fancy"><h2>Introduction </h2></div></div>
 
