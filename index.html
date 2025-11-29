@@ -59,7 +59,7 @@
     async function DisplayImage(){
   const response = await fetch('https://randomfox.ca/floof/');
   const data = await response.json();
-  document.getElementById("content").innerHTML = `<img src="${data.image}" alt="Random Fox">`;
+  document.getElementById("content2").innerHTML = `<img src="${data.image}" alt="Random Fox">`;
 }
 </script>
 
