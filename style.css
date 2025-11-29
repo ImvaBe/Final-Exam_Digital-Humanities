@@ -52,8 +52,8 @@ h1 {
 }
 
 p {
-  margin-right: 150px;
-  margin-left: 80px;
+  text-align: center;
+  text-align: justify;
 }
 
 .fancy {
