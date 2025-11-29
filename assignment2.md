@@ -26,6 +26,7 @@ I enjoyed experimenting with the color and the placement of images and text a lo
 Significant was also the attempt to classify different contents, in order for their deployment to not look the same, and then subsequently how to figure out the content not being double-loaded onto a page.   
 
 <div class="container"><div class="fancy"><h2>Web Design</h2></div></div> 
+
 It was not easy to focus on the larger picture, when every aspect of code is important. While there were larger frame references that were important to get right in order to deploy the website, other features were not to be overlooked. Whenever a piece of code was problematic or did not react in the way that I expected it to, it was also a reprieve to be able to look at another part of the website, that was easier to understand and, for lack of a better word, fun to adjust.
 
 <div class="container"><div class="fancy"><h2>Sources</h2></div></div> 
