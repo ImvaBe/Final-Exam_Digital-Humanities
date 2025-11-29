@@ -47,7 +47,10 @@
     const response = await fetch(filename);
     const text = await response.text();
     document.getElementById(componentId).innerHTML = marked.parse(text);
-    }
+    if (componentId === "content") {
+    document.getElementById("content2").innerHTML = "";
+    }  
+  }
 
     async function getAdvice(){
     const response = await fetch('https://api.adviceslip.com/advice');
