@@ -34,7 +34,7 @@ Naturally, students can go to the library to borrow books on their subjects, but
 
 Future students will have to be trained properly in using AI as a tool, because it will possibly change every field of study. It is not useful to bar oneself against it, but instead learn how to use it, but also how to spot it in other people’s work. A positive aspect can be to teach students a critical awareness of sources and misinformation campaigns online. 
 
-<div align="center"> <img src="AI_Environmental_Impact_1.jpg" alt="AIEnvironmentalImpact" /></div>
+<div align="center"><img src="AI_Environmental_Impact_1.jpg" alt="AIEnvironmentalImpact" width="700px" height="392.3px"></div>
 
 
 <div class="container"><div class="fancy"><h2>Conclusion</h2></div></div>
