@@ -23,7 +23,7 @@ While AI already is and has been a part of many websites and everyone often uses
 
 Of course, AI will not simply cease to exist now, therefore it is relevant to actively think about how it can be utilized best. It will not be helpful to demonize it, however it is important to be clear about the potential negative impacts, like reduction of soft skills, possible wrong information, the creation of a vicious cycle if a LLM starts training itself on its own data, thereby multiplying incorrect output, or considering the environmental impact it has (Aljuaid 2024; Fosner 2024). 
 
-AI does have its place, for example by being trained in reading medical data and potentially aiding doctors in diagnoses (Al-antari 2024). In Intercultural Studies it could potentially be used to overcome language barriers, to foster intercultural understanding, and to collaborate internationally, albeit all of these have been practiced for decades without artifical intelligence. 
+AI does have its place, for example by being trained in reading medical data and potentially aiding doctors in diagnoses (Al-antari 2024). In Intercultural Studies it could potentially be used to overcome language barriers, to foster intercultural understanding, and to collaborate internationally, albeit all of these have been practiced for decades without artificial intelligence. 
 
 <div class="container"><div class="fancy"><h2>Are there vital technologies in Intercultural Studies?</h2></div></div>
 
