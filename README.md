@@ -1,4 +1,4 @@
-#README
+# READ ME
 
 This project is an introduction to Digital Technologies in the Humanities, with the focus on Intercultural Studies. The website deployed from this GitHub project includes a written assignment that deals with AI in Intercultural Studies.
 
