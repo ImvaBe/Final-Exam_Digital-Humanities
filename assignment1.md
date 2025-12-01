@@ -36,7 +36,6 @@ Future students will have to be trained properly in using AI as a tool, because 
 
 <div align="center"><img src="AI_Environmental_Impact_1.jpg" alt="AIEnvironmentalImpact" width="700px" height="392.3px"></div>
 
-
 <div class="container"><div class="fancy"><h2>Conclusion</h2></div></div>
 
 In summary, no field will remain untouched by artificial intelligence. We are currently still in the starting phase of finding out what implementing large language models means for many different areas of studies, including interculturality. I would argue the most relevant aspect is to study the impact of LLMs on communication, on research, on students, on information processing, and on the rise or fall of so-called fake news. 
